@@ -740,4 +740,4 @@ ScriptsOnlyBuild:
   platform: 19
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: C:/Users/Adson/Downloads/Nova pasta/Chess.exe
+  playerPath: C:/Users/Alisson/Documents/Git/builds/knight windows/Chess.exe
